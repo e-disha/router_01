@@ -1,0 +1,34 @@
+{
+    "choices": [
+      {
+        "id": 1,
+        "title": "Diver",
+        "desc": "Roam free as you discover the frozen seas of Neptune",
+        "location": "Neptune"
+      },
+      {
+        "id": 2,
+        "title": "Blacksmith",
+        "desc": "Weapons forged by you will bring down civilizations",
+        "location": "Mars"
+      },
+      {
+        "id": 3,
+        "title": "Magician",
+        "desc": "Invention and mastery of ancient magic is in your hands",
+        "location": "Jupiter"
+      },
+      {
+        "id": 4,
+        "title": "Fairy",
+        "desc": "Not much worries will weigh upon you, live and let live",
+        "location": "Venus"
+      },
+      {
+        "id": 5,
+        "title": "Human",
+        "desc": "You'll be Adam, everything does, you know best",
+        "location": "Earth"
+      }
+    ]
+  }
